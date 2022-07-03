@@ -143,16 +143,3 @@ return (
 | inactiveIcon | component | required          | Use for showing tab inactiveIcon icon/image. |
 
 
-# Version Migration
-
-### Version: 2.2.2
-
-How to migrate version [**1.0.0** to **2.1.2+**](VERSION_MIGRATION.md).
-
-# LICENSE!
-
-React-native-tabbar-interaction is [MIT-licensed](https://github.com/Mindinventory/react-native-tabbar-interaction/blob/master/LICENSE).
-
-# Let us know!
-
-We’d be really happy if you send us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
